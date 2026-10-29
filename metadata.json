@@ -1,0 +1,8 @@
+{
+  "name": "CloudGuard CSPM & Compliance Automator",
+  "description": "Enterprise Cloud Security Posture Management (CSPM) and DevSecOps compliance engine. Scans AWS environments and Terraform IaC for misconfigurations, generates CIS/SOC 2 compliance reports, and dispatches automated webhook alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
